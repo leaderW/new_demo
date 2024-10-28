@@ -11,3 +11,4 @@ ENTRYPOINT ["java","-jar","/app/demo.jar"]
 
 
 aaaa
+bbbb
